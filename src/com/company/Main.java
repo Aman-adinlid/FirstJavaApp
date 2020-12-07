@@ -40,6 +40,8 @@ public class Main {
       System.out.println(myString1);
       String myString2 = "u can do it";
       System.out.println(myString2);
+      int number= 1;
+
 
 
 
